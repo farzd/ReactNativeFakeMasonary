@@ -1,4 +1,7 @@
 # ReactNativeFakeMasonary
+
+UPDATE: This was just a mere test, please see https://www.npmjs.com/package/react-native-masonry for a real solution 
+
 Alternative way of compiling a masonary view until react-native officially updates the flex module. 
 Its basically 2 views, with flexDirection: 'column' and random height on images.
 There is no current way to actually tackle a 'REAL' masonary solution as network images witdh and height is not returned in react-native
